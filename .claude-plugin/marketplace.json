@@ -1,0 +1,16 @@
+{
+  "name": "humanized",
+  "owner": {
+    "name": "roovwhite"
+  },
+  "metadata": {
+    "description": "Skills for writing Russian text that reads as written by a person."
+  },
+  "plugins": [
+    {
+      "name": "people-text",
+      "source": "./plugins/people-text",
+      "description": "Write and edit text so it reads as human-written, not AI-generated."
+    }
+  ]
+}
